@@ -8,4 +8,4 @@ Install dependencies:
 ```shell
 pip install -r requirements.txt
 ```
-Please also install [`diff-gaussian-rasterization-w-depth`](https://github.com/JonathonLuiten/diff-gaussian-rasterization-w-depth) and `simple-knn`. It is recommended to install them in an environment with CUDA 11.x and GCC 9.4.0, as using higher versions of GCC may result in installation failures.
+Please also install [`diff-gaussian-rasterization-w-depth`](https://github.com/JonathonLuiten/diff-gaussian-rasterization-w-depth) and [`simple-knn`](https://github.com/dreamgaussian/dreamgaussian). It is recommended to install them in an environment with CUDA 11.x and GCC 9.4.0, as using higher versions of GCC may result in installation failures.
